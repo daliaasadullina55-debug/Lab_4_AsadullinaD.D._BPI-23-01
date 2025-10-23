@@ -17,3 +17,8 @@ C:\Users\79196\source\repos\Lab_4_AsadullinaD.D._BPI-23-01\Lab_4_AsadullinaD.D._
 C:\Users\79196\source\repos\Lab_4_AsadullinaD.D._BPI-23-01\Lab_4_AsadullinaD.D._БПИ-23-01\obj\Debug\Lab_4_AsadullinaD.D._БПИ-23-01.csproj.CoreCompileInputs.cache
 C:\Users\79196\source\repos\Lab_4_AsadullinaD.D._BPI-23-01\Lab_4_AsadullinaD.D._БПИ-23-01\obj\Debug\Lab_4_AsadullinaD.D._БПИ-23-01.exe
 C:\Users\79196\source\repos\Lab_4_AsadullinaD.D._BPI-23-01\Lab_4_AsadullinaD.D._БПИ-23-01\obj\Debug\Lab_4_AsadullinaD.D._БПИ-23-01.pdb
+C:\Users\79196\source\repos\Lab_4_AsadullinaD.D._BPI-23-01\Lab_4_AsadullinaD.D._БПИ-23-01\obj\Debug\View\WindowNewEmployee.g.cs
+C:\Users\79196\source\repos\Lab_4_AsadullinaD.D._BPI-23-01\Lab_4_AsadullinaD.D._БПИ-23-01\obj\Debug\View\WindowNewRole.g.cs
+C:\Users\79196\source\repos\Lab_4_AsadullinaD.D._BPI-23-01\Lab_4_AsadullinaD.D._БПИ-23-01\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\79196\source\repos\Lab_4_AsadullinaD.D._BPI-23-01\Lab_4_AsadullinaD.D._БПИ-23-01\obj\Debug\View\WindowNewEmployee.baml
+C:\Users\79196\source\repos\Lab_4_AsadullinaD.D._BPI-23-01\Lab_4_AsadullinaD.D._БПИ-23-01\obj\Debug\View\WindowNewRole.baml

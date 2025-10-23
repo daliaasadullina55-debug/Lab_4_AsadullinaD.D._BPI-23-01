@@ -1,4 +1,6 @@
-﻿using Lab_4_AsadullinaD.D._БПИ_23_01.View;
+﻿using Lab_4_AsadullinaD.D._БПИ_23_01.Helper;
+using Lab_4_AsadullinaD.D._БПИ_23_01.View;
+using Lab_4_AsadullinaD.D._БПИ_23_01.ViewModel;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -24,17 +26,9 @@ namespace Lab_4_AsadullinaD.D._БПИ_23_01
         public MainWindow()
         {
             InitializeComponent();
-        }
-        private void Employee_OnClick(object sender, RoutedEventArgs e)
-        {
-            WindowEmployee wEmployee = new WindowEmployee(); 
-            wEmployee.Show();
-        }
-        private void Role_OnClick(object sender, RoutedEventArgs e)
-        {
-            WindowRole wRole = new WindowRole(); 
-            wRole.Show();
+
+            // ✅ Устанавливаем контекст данных для привязки команд
+            DataContext = new MainViewModel();
         }
     }
-
 }

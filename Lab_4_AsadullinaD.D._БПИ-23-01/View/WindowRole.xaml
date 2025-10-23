@@ -8,18 +8,27 @@
       d:DesignHeight="300" d:DesignWidth="300"
       Title="Должности">
 
-    <StackPanel Background="#FFD8D8D8">
-        <Label Margin="5" HorizontalAlignment="Center">Список должностей сотрудников</Label>
-        <ListView x:Name="lvRole" Background="#FFD3CDCD">
-            <ListView.View >
+    <DockPanel Background="#FFD8D8D8">
+
+        <!-- Панель с кнопками -->
+        <StackPanel Orientation="Horizontal" DockPanel.Dock="Top" HorizontalAlignment="Center" Margin="5">
+            <Button Content="Добавить" Command="{Binding AddRole}" Margin="5" Width="100"/>
+            <Button Content="Редактировать" Command="{Binding EditRole}" Margin="5" Width="100"/>
+            <Button Content="Удалить" Command="{Binding DeleteRole}" Margin="5" Width="100"/>
+        </StackPanel>
+
+        <!-- Список должностей -->
+        <ListView ItemsSource="{Binding ListRole}" 
+                  SelectedItem="{Binding SelectedRole}" 
+                  Background="#FFD3CDCD" Margin="10">
+            <ListView.View>
                 <GridView>
-                    <GridView.Columns>
-                        <GridViewColumn Header="Код" Width="50" DisplayMemberBinding="{Binding Id}"/>
-                        <GridViewColumn Header="Наименование должности" DisplayMemberBinding="{Binding NameRole}"/>
-                    </GridView.Columns>
+                    <GridViewColumn Header="Код" Width="50" DisplayMemberBinding="{Binding Id}"/>
+                    <GridViewColumn Header="Наименование должности" DisplayMemberBinding="{Binding NameRole}"/>
                 </GridView>
             </ListView.View>
         </ListView>
-    </StackPanel>
+
+    </DockPanel>
 
 </Window>

@@ -24,8 +24,7 @@ namespace Lab_4_AsadullinaD.D._БПИ_23_01.View
         public WindowRole()
         {
             InitializeComponent();
-            RoleViewModel vmRole = new RoleViewModel();
-            lvRole.ItemsSource = vmRole.ListRole;
+            DataContext = new RoleViewModel();
         }
     }
 }

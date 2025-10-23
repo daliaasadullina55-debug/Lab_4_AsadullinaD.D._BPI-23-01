@@ -3,35 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\79196\\source\\repos\\Lab_4_AsadullinaD.D._BPI-23-01\\Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FA69A7D1-65D6-4B29-93F9-3B68185A3E26}|Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01.csproj|c:\\users\\79196\\source\\repos\\lab_4_asadullinad.d._bpi-23-01\\lab_4_asadullinad.d._\u0431\u043F\u0438-23-01\\view\\windowemployee.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{FA69A7D1-65D6-4B29-93F9-3B68185A3E26}|Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01.csproj|solutionrelative:view\\windowemployee.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{FA69A7D1-65D6-4B29-93F9-3B68185A3E26}|Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01.csproj|c:\\users\\79196\\source\\repos\\lab_4_asadullinad.d._bpi-23-01\\lab_4_asadullinad.d._\u0431\u043F\u0438-23-01\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA69A7D1-65D6-4B29-93F9-3B68185A3E26}|Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01.csproj|solutionrelative:viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA69A7D1-65D6-4B29-93F9-3B68185A3E26}|Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01.csproj|c:\\users\\79196\\source\\repos\\lab_4_asadullinad.d._bpi-23-01\\lab_4_asadullinad.d._\u0431\u043F\u0438-23-01\\view\\windowemployee.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA69A7D1-65D6-4B29-93F9-3B68185A3E26}|Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01.csproj|solutionrelative:view\\windowemployee.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA69A7D1-65D6-4B29-93F9-3B68185A3E26}|Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01.csproj|c:\\users\\79196\\source\\repos\\lab_4_asadullinad.d._bpi-23-01\\lab_4_asadullinad.d._\u0431\u043F\u0438-23-01\\view\\windowrole.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{FA69A7D1-65D6-4B29-93F9-3B68185A3E26}|Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01.csproj|solutionrelative:view\\windowrole.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA69A7D1-65D6-4B29-93F9-3B68185A3E26}|Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01.csproj|c:\\users\\79196\\source\\repos\\lab_4_asadullinad.d._bpi-23-01\\lab_4_asadullinad.d._\u0431\u043F\u0438-23-01\\view\\windowrole.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA69A7D1-65D6-4B29-93F9-3B68185A3E26}|Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01.csproj|solutionrelative:view\\windowrole.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA69A7D1-65D6-4B29-93F9-3B68185A3E26}|Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01.csproj|c:\\users\\79196\\source\\repos\\lab_4_asadullinad.d._bpi-23-01\\lab_4_asadullinad.d._\u0431\u043F\u0438-23-01\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FA69A7D1-65D6-4B29-93F9-3B68185A3E26}|Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01.csproj|C:\\Users\\79196\\source\\repos\\Lab_4_AsadullinaD.D._BPI-23-01\\Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA69A7D1-65D6-4B29-93F9-3B68185A3E26}|Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA69A7D1-65D6-4B29-93F9-3B68185A3E26}|Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01.csproj|c:\\users\\79196\\source\\repos\\lab_4_asadullinad.d._bpi-23-01\\lab_4_asadullinad.d._\u0431\u043F\u0438-23-01\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{FA69A7D1-65D6-4B29-93F9-3B68185A3E26}|Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01.csproj|C:\\Users\\79196\\source\\repos\\Lab_4_AsadullinaD.D._BPI-23-01\\Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{FA69A7D1-65D6-4B29-93F9-3B68185A3E26}|Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA69A7D1-65D6-4B29-93F9-3B68185A3E26}|Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01.csproj|c:\\users\\79196\\source\\repos\\lab_4_asadullinad.d._bpi-23-01\\lab_4_asadullinad.d._\u0431\u043F\u0438-23-01\\helper\\findrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA69A7D1-65D6-4B29-93F9-3B68185A3E26}|Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01.csproj|solutionrelative:helper\\findrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA69A7D1-65D6-4B29-93F9-3B68185A3E26}|Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01.csproj|c:\\users\\79196\\source\\repos\\lab_4_asadullinad.d._bpi-23-01\\lab_4_asadullinad.d._\u0431\u043F\u0438-23-01\\viewmodel\\roleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FA69A7D1-65D6-4B29-93F9-3B68185A3E26}|Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01.csproj|C:\\Users\\79196\\source\\repos\\Lab_4_AsadullinaD.D._BPI-23-01\\Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01\\viewmodel\\roleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA69A7D1-65D6-4B29-93F9-3B68185A3E26}|Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01.csproj|solutionrelative:viewmodel\\roleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -39,16 +23,56 @@
       "RelativeMoniker": "D:0:0:{FA69A7D1-65D6-4B29-93F9-3B68185A3E26}|Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01.csproj|solutionrelative:viewmodel\\personviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA69A7D1-65D6-4B29-93F9-3B68185A3E26}|Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01.csproj|c:\\users\\79196\\source\\repos\\lab_4_asadullinad.d._bpi-23-01\\lab_4_asadullinad.d._\u0431\u043F\u0438-23-01\\model\\persondpo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FA69A7D1-65D6-4B29-93F9-3B68185A3E26}|Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01.csproj|C:\\Users\\79196\\source\\repos\\Lab_4_AsadullinaD.D._BPI-23-01\\Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01\\view\\windowemployee.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA69A7D1-65D6-4B29-93F9-3B68185A3E26}|Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01.csproj|solutionrelative:view\\windowemployee.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA69A7D1-65D6-4B29-93F9-3B68185A3E26}|Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01.csproj|C:\\Users\\79196\\source\\repos\\Lab_4_AsadullinaD.D._BPI-23-01\\Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01\\view\\windowemployee.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FA69A7D1-65D6-4B29-93F9-3B68185A3E26}|Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01.csproj|solutionrelative:view\\windowemployee.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA69A7D1-65D6-4B29-93F9-3B68185A3E26}|Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01.csproj|C:\\Users\\79196\\source\\repos\\Lab_4_AsadullinaD.D._BPI-23-01\\Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01\\helper\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA69A7D1-65D6-4B29-93F9-3B68185A3E26}|Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01.csproj|solutionrelative:helper\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA69A7D1-65D6-4B29-93F9-3B68185A3E26}|Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01.csproj|C:\\Users\\79196\\source\\repos\\Lab_4_AsadullinaD.D._BPI-23-01\\Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01\\model\\persondpo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA69A7D1-65D6-4B29-93F9-3B68185A3E26}|Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01.csproj|solutionrelative:model\\persondpo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA69A7D1-65D6-4B29-93F9-3B68185A3E26}|Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01.csproj|c:\\users\\79196\\source\\repos\\lab_4_asadullinad.d._bpi-23-01\\lab_4_asadullinad.d._\u0431\u043F\u0438-23-01\\model\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FA69A7D1-65D6-4B29-93F9-3B68185A3E26}|Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01.csproj|C:\\Users\\79196\\source\\repos\\Lab_4_AsadullinaD.D._BPI-23-01\\Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01\\model\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA69A7D1-65D6-4B29-93F9-3B68185A3E26}|Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01.csproj|solutionrelative:model\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA69A7D1-65D6-4B29-93F9-3B68185A3E26}|Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01.csproj|c:\\users\\79196\\source\\repos\\lab_4_asadullinad.d._bpi-23-01\\lab_4_asadullinad.d._\u0431\u043F\u0438-23-01\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FA69A7D1-65D6-4B29-93F9-3B68185A3E26}|Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01.csproj|C:\\Users\\79196\\source\\repos\\Lab_4_AsadullinaD.D._BPI-23-01\\Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA69A7D1-65D6-4B29-93F9-3B68185A3E26}|Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01.csproj|solutionrelative:model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA69A7D1-65D6-4B29-93F9-3B68185A3E26}|Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01.csproj|C:\\Users\\79196\\source\\repos\\Lab_4_AsadullinaD.D._BPI-23-01\\Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01\\view\\windownewemployee.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA69A7D1-65D6-4B29-93F9-3B68185A3E26}|Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01.csproj|solutionrelative:view\\windownewemployee.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA69A7D1-65D6-4B29-93F9-3B68185A3E26}|Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01.csproj|C:\\Users\\79196\\source\\repos\\Lab_4_AsadullinaD.D._BPI-23-01\\Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01\\view\\windownewemployee.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FA69A7D1-65D6-4B29-93F9-3B68185A3E26}|Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01.csproj|solutionrelative:view\\windownewemployee.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA69A7D1-65D6-4B29-93F9-3B68185A3E26}|Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01.csproj|C:\\Users\\79196\\source\\repos\\Lab_4_AsadullinaD.D._BPI-23-01\\Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01\\view\\windownewrole.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA69A7D1-65D6-4B29-93F9-3B68185A3E26}|Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01.csproj|solutionrelative:view\\windownewrole.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA69A7D1-65D6-4B29-93F9-3B68185A3E26}|Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01.csproj|C:\\Users\\79196\\source\\repos\\Lab_4_AsadullinaD.D._BPI-23-01\\Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01\\view\\windownewrole.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FA69A7D1-65D6-4B29-93F9-3B68185A3E26}|Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01.csproj|solutionrelative:view\\windownewrole.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA69A7D1-65D6-4B29-93F9-3B68185A3E26}|Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01.csproj|C:\\Users\\79196\\source\\repos\\Lab_4_AsadullinaD.D._BPI-23-01\\Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01\\view\\windowrole.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA69A7D1-65D6-4B29-93F9-3B68185A3E26}|Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01.csproj|solutionrelative:view\\windowrole.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA69A7D1-65D6-4B29-93F9-3B68185A3E26}|Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01.csproj|C:\\Users\\79196\\source\\repos\\Lab_4_AsadullinaD.D._BPI-23-01\\Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01\\view\\windowrole.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FA69A7D1-65D6-4B29-93F9-3B68185A3E26}|Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01.csproj|solutionrelative:view\\windowrole.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA69A7D1-65D6-4B29-93F9-3B68185A3E26}|Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01.csproj|C:\\Users\\79196\\source\\repos\\Lab_4_AsadullinaD.D._BPI-23-01\\Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01\\helper\\findrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA69A7D1-65D6-4B29-93F9-3B68185A3E26}|Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01.csproj|solutionrelative:helper\\findrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,74 +82,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\79196\\source\\repos\\Lab_4_AsadullinaD.D._BPI-23-01\\Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\79196\\source\\repos\\Lab_4_AsadullinaD.D._BPI-23-01\\Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01\\MainWindow.xaml.cs",
-              "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAmwCMAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T09:27:20.504Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "WindowEmployee.xaml",
-              "DocumentMoniker": "C:\\Users\\79196\\source\\repos\\Lab_4_AsadullinaD.D._BPI-23-01\\Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01\\View\\WindowEmployee.xaml",
-              "RelativeDocumentMoniker": "View\\WindowEmployee.xaml",
-              "ToolTip": "C:\\Users\\79196\\source\\repos\\Lab_4_AsadullinaD.D._BPI-23-01\\Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01\\View\\WindowEmployee.xaml",
-              "RelativeToolTip": "View\\WindowEmployee.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-13T09:39:31.436Z",
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\79196\\source\\repos\\Lab_4_AsadullinaD.D._BPI-23-01\\Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01\\ViewModel\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\79196\\source\\repos\\Lab_4_AsadullinaD.D._BPI-23-01\\Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01\\ViewModel\\MainViewModel.cs",
+              "RelativeToolTip": "ViewModel\\MainViewModel.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwCEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T21:50:30.516Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WindowEmployee.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\79196\\source\\repos\\Lab_4_AsadullinaD.D._BPI-23-01\\Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01\\View\\WindowEmployee.xaml.cs",
-              "RelativeDocumentMoniker": "View\\WindowEmployee.xaml.cs",
-              "ToolTip": "C:\\Users\\79196\\source\\repos\\Lab_4_AsadullinaD.D._BPI-23-01\\Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01\\View\\WindowEmployee.xaml.cs",
-              "RelativeToolTip": "View\\WindowEmployee.xaml.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAmwCQAAAA2AAAA",
+              "DocumentIndex": 4,
+              "Title": "PersonViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\79196\\source\\repos\\Lab_4_AsadullinaD.D._BPI-23-01\\Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01\\ViewModel\\PersonViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\PersonViewModel.cs",
+              "ToolTip": "C:\\Users\\79196\\source\\repos\\Lab_4_AsadullinaD.D._BPI-23-01\\Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01\\ViewModel\\PersonViewModel.cs",
+              "RelativeToolTip": "ViewModel\\PersonViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAALQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T10:31:17.648Z",
+              "WhenOpened": "2025-10-13T09:31:27.644Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "WindowRole.xaml",
-              "DocumentMoniker": "C:\\Users\\79196\\source\\repos\\Lab_4_AsadullinaD.D._BPI-23-01\\Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01\\View\\WindowRole.xaml",
-              "RelativeDocumentMoniker": "View\\WindowRole.xaml",
-              "ToolTip": "C:\\Users\\79196\\source\\repos\\Lab_4_AsadullinaD.D._BPI-23-01\\Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01\\View\\WindowRole.xaml",
-              "RelativeToolTip": "View\\WindowRole.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-13T09:40:00.134Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "WindowRole.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\79196\\source\\repos\\Lab_4_AsadullinaD.D._BPI-23-01\\Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01\\View\\WindowRole.xaml.cs",
-              "RelativeDocumentMoniker": "View\\WindowRole.xaml.cs",
-              "ToolTip": "C:\\Users\\79196\\source\\repos\\Lab_4_AsadullinaD.D._BPI-23-01\\Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01\\View\\WindowRole.xaml.cs",
-              "RelativeToolTip": "View\\WindowRole.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T10:31:54.816Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\79196\\source\\repos\\Lab_4_AsadullinaD.D._BPI-23-01\\Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
@@ -137,80 +124,192 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "FindRole.cs",
-              "DocumentMoniker": "C:\\Users\\79196\\source\\repos\\Lab_4_AsadullinaD.D._BPI-23-01\\Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01\\Helper\\FindRole.cs",
-              "RelativeDocumentMoniker": "Helper\\FindRole.cs",
-              "ToolTip": "C:\\Users\\79196\\source\\repos\\Lab_4_AsadullinaD.D._BPI-23-01\\Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01\\Helper\\FindRole.cs",
-              "RelativeToolTip": "Helper\\FindRole.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\79196\\source\\repos\\Lab_4_AsadullinaD.D._BPI-23-01\\Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\79196\\source\\repos\\Lab_4_AsadullinaD.D._BPI-23-01\\Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB4AAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T10:45:44.586Z",
+              "WhenOpened": "2025-10-13T09:27:20.504Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
+              "Title": "WindowEmployee.xaml",
+              "DocumentMoniker": "C:\\Users\\79196\\source\\repos\\Lab_4_AsadullinaD.D._BPI-23-01\\Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01\\View\\WindowEmployee.xaml",
+              "RelativeDocumentMoniker": "View\\WindowEmployee.xaml",
+              "ToolTip": "C:\\Users\\79196\\source\\repos\\Lab_4_AsadullinaD.D._BPI-23-01\\Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01\\View\\WindowEmployee.xaml",
+              "RelativeToolTip": "View\\WindowEmployee.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-13T09:39:31.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WindowEmployee.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\79196\\source\\repos\\Lab_4_AsadullinaD.D._BPI-23-01\\Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01\\View\\WindowEmployee.xaml.cs",
+              "RelativeDocumentMoniker": "View\\WindowEmployee.xaml.cs",
+              "ToolTip": "C:\\Users\\79196\\source\\repos\\Lab_4_AsadullinaD.D._BPI-23-01\\Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01\\View\\WindowEmployee.xaml.cs",
+              "RelativeToolTip": "View\\WindowEmployee.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T10:31:17.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "RoleViewModel.cs",
               "DocumentMoniker": "C:\\Users\\79196\\source\\repos\\Lab_4_AsadullinaD.D._BPI-23-01\\Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01\\ViewModel\\RoleViewModel.cs",
               "RelativeDocumentMoniker": "ViewModel\\RoleViewModel.cs",
               "ToolTip": "C:\\Users\\79196\\source\\repos\\Lab_4_AsadullinaD.D._BPI-23-01\\Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01\\ViewModel\\RoleViewModel.cs",
               "RelativeToolTip": "ViewModel\\RoleViewModel.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAABHAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-13T09:32:05.336Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "PersonViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\79196\\source\\repos\\Lab_4_AsadullinaD.D._BPI-23-01\\Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01\\ViewModel\\PersonViewModel.cs",
-              "RelativeDocumentMoniker": "ViewModel\\PersonViewModel.cs",
-              "ToolTip": "C:\\Users\\79196\\source\\repos\\Lab_4_AsadullinaD.D._BPI-23-01\\Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01\\ViewModel\\PersonViewModel.cs",
-              "RelativeToolTip": "ViewModel\\PersonViewModel.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAYwDQAAAAHAAAA",
+              "DocumentIndex": 7,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\79196\\source\\repos\\Lab_4_AsadullinaD.D._BPI-23-01\\Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01\\Helper\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "Helper\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\79196\\source\\repos\\Lab_4_AsadullinaD.D._BPI-23-01\\Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01\\Helper\\RelayCommand.cs",
+              "RelativeToolTip": "Helper\\RelayCommand.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAowCUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T09:31:27.644Z",
+              "WhenOpened": "2025-10-20T07:00:22.702Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "PersonDPO.cs",
               "DocumentMoniker": "C:\\Users\\79196\\source\\repos\\Lab_4_AsadullinaD.D._BPI-23-01\\Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01\\Model\\PersonDPO.cs",
               "RelativeDocumentMoniker": "Model\\PersonDPO.cs",
               "ToolTip": "C:\\Users\\79196\\source\\repos\\Lab_4_AsadullinaD.D._BPI-23-01\\Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01\\Model\\PersonDPO.cs",
               "RelativeToolTip": "Model\\PersonDPO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFcAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-13T10:57:00.474Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "Role.cs",
               "DocumentMoniker": "C:\\Users\\79196\\source\\repos\\Lab_4_AsadullinaD.D._BPI-23-01\\Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01\\Model\\Role.cs",
               "RelativeDocumentMoniker": "Model\\Role.cs",
               "ToolTip": "C:\\Users\\79196\\source\\repos\\Lab_4_AsadullinaD.D._BPI-23-01\\Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01\\Model\\Role.cs",
               "RelativeToolTip": "Model\\Role.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-13T09:30:29.879Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "Person.cs",
               "DocumentMoniker": "C:\\Users\\79196\\source\\repos\\Lab_4_AsadullinaD.D._BPI-23-01\\Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01\\Model\\Person.cs",
               "RelativeDocumentMoniker": "Model\\Person.cs",
               "ToolTip": "C:\\Users\\79196\\source\\repos\\Lab_4_AsadullinaD.D._BPI-23-01\\Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01\\Model\\Person.cs",
               "RelativeToolTip": "Model\\Person.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAuAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-13T09:30:09.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WindowRole.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\79196\\source\\repos\\Lab_4_AsadullinaD.D._BPI-23-01\\Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01\\View\\WindowRole.xaml.cs",
+              "RelativeDocumentMoniker": "View\\WindowRole.xaml.cs",
+              "ToolTip": "C:\\Users\\79196\\source\\repos\\Lab_4_AsadullinaD.D._BPI-23-01\\Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01\\View\\WindowRole.xaml.cs",
+              "RelativeToolTip": "View\\WindowRole.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T10:31:54.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FindRole.cs",
+              "DocumentMoniker": "C:\\Users\\79196\\source\\repos\\Lab_4_AsadullinaD.D._BPI-23-01\\Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01\\Helper\\FindRole.cs",
+              "RelativeDocumentMoniker": "Helper\\FindRole.cs",
+              "ToolTip": "C:\\Users\\79196\\source\\repos\\Lab_4_AsadullinaD.D._BPI-23-01\\Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01\\Helper\\FindRole.cs",
+              "RelativeToolTip": "Helper\\FindRole.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T10:45:44.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WindowRole.xaml",
+              "DocumentMoniker": "C:\\Users\\79196\\source\\repos\\Lab_4_AsadullinaD.D._BPI-23-01\\Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01\\View\\WindowRole.xaml",
+              "RelativeDocumentMoniker": "View\\WindowRole.xaml",
+              "ToolTip": "C:\\Users\\79196\\source\\repos\\Lab_4_AsadullinaD.D._BPI-23-01\\Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01\\View\\WindowRole.xaml",
+              "RelativeToolTip": "View\\WindowRole.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-13T09:40:00.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WindowNewEmployee.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\79196\\source\\repos\\Lab_4_AsadullinaD.D._BPI-23-01\\Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01\\View\\WindowNewEmployee.xaml.cs",
+              "RelativeDocumentMoniker": "View\\WindowNewEmployee.xaml.cs",
+              "ToolTip": "C:\\Users\\79196\\source\\repos\\Lab_4_AsadullinaD.D._BPI-23-01\\Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01\\View\\WindowNewEmployee.xaml.cs",
+              "RelativeToolTip": "View\\WindowNewEmployee.xaml.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAIwDUAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T08:07:37.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WindowNewEmployee.xaml",
+              "DocumentMoniker": "C:\\Users\\79196\\source\\repos\\Lab_4_AsadullinaD.D._BPI-23-01\\Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01\\View\\WindowNewEmployee.xaml",
+              "RelativeDocumentMoniker": "View\\WindowNewEmployee.xaml",
+              "ToolTip": "C:\\Users\\79196\\source\\repos\\Lab_4_AsadullinaD.D._BPI-23-01\\Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01\\View\\WindowNewEmployee.xaml",
+              "RelativeToolTip": "View\\WindowNewEmployee.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-20T07:57:19.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WindowNewRole.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\79196\\source\\repos\\Lab_4_AsadullinaD.D._BPI-23-01\\Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01\\View\\WindowNewRole.xaml.cs",
+              "RelativeDocumentMoniker": "View\\WindowNewRole.xaml.cs",
+              "ToolTip": "C:\\Users\\79196\\source\\repos\\Lab_4_AsadullinaD.D._BPI-23-01\\Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01\\View\\WindowNewRole.xaml.cs",
+              "RelativeToolTip": "View\\WindowNewRole.xaml.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAADwvw8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T08:08:24.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WindowNewRole.xaml",
+              "DocumentMoniker": "C:\\Users\\79196\\source\\repos\\Lab_4_AsadullinaD.D._BPI-23-01\\Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01\\View\\WindowNewRole.xaml",
+              "RelativeDocumentMoniker": "View\\WindowNewRole.xaml",
+              "ToolTip": "C:\\Users\\79196\\source\\repos\\Lab_4_AsadullinaD.D._BPI-23-01\\Lab_4_AsadullinaD.D._\u0411\u041F\u0418-23-01\\View\\WindowNewRole.xaml",
+              "RelativeToolTip": "View\\WindowNewRole.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-20T07:58:40.816Z",
               "EditorCaption": ""
             }
           ]

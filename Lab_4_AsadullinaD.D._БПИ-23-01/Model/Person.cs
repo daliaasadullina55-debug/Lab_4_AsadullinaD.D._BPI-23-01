@@ -18,11 +18,23 @@ namespace Lab_4_AsadullinaD.D._БПИ_23_01.Model
 
         public Person(int id, int roleId, string firstName, string lastName, DateTime birthday)
         {
-            this.Id = id; 
-            this.RoleId = roleId;
-            this.FirstName = firstName; 
-            this.LastName = lastName; 
-            this.Birthday = birthday;
+            Id = id;
+            RoleId = roleId;
+            FirstName = firstName;
+            LastName = lastName;
+            Birthday = birthday;
+        }
+
+        public Person CopyFromPersonDPO(PersonDpo dpo)
+        {
+            return new Person
+            {
+                Id = dpo.Id,
+                RoleId = dpo.RoleId,
+                FirstName = dpo.FirstName,
+                LastName = dpo.LastName,
+                Birthday = dpo.Birthday
+            };
         }
     }
 

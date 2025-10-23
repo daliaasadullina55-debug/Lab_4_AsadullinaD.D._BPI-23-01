@@ -1,6 +1,7 @@
 ﻿using Lab_4_AsadullinaD.D._БПИ_23_01.Helper;
 using Lab_4_AsadullinaD.D._БПИ_23_01.Model;
 using Lab_4_AsadullinaD.D._БПИ_23_01.ViewModel;
+using Lab_4_AsadullinaD.D._БПИ_23_01.View;
 using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
@@ -27,30 +28,9 @@ namespace Lab_4_AsadullinaD.D._БПИ_23_01.View
         public WindowEmployee()
         {
             InitializeComponent();
-            PersonViewModel vmPerson = new PersonViewModel();
-            RoleViewModel vmRole = new RoleViewModel();
-            List<Role> roles = new List<Role>();
-            foreach (Role r in vmRole.ListRole)
-            {
-                roles.Add(r);
-            }
-            ObservableCollection<PersonDPO> persons = new ObservableCollection<PersonDPO>();
-            FindRole finder;
-            foreach (var p in vmPerson.ListPerson)
-            {
-                finder = new FindRole(p.RoleId);
-                Role rol = roles.Find(new Predicate<Role>(finder.RolePredicate));
-                persons.Add(new PersonDPO
-                {
-                    Id = p.Id,
-                    Role = rol.NameRole,
-                    FirstName = p.FirstName,
-                    LastName = p.LastName,
-                    Birthday = p.Birthday
-                });
-            }
-            lvEmployee.ItemsSource = persons;
+            DataContext = new PersonViewModel();
         }
     }
+
 
 }
