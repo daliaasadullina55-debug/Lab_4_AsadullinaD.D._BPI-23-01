@@ -55,7 +55,28 @@ namespace Lab_4_AsadullinaD.D._БПИ_23_01.ViewModel
             if (wnRole.ShowDialog() == true) { ListRole.Add(role); SelectedRole = role; }
         }));
 
-        // EditRole, DeleteRole — аналогично
+        private RelayCommand editRole;
+        public RelayCommand EditRole => editRole ?? (editRole = new RelayCommand(obj => {
+            if (SelectedRole == null) return;
+
+            var editWindow = new WindowNewRole { Title = "Редактирование должности" };
+            var roleCopy = new Role { Id = SelectedRole.Id, NameRole = SelectedRole.NameRole };
+            editWindow.DataContext = roleCopy;
+
+            if (editWindow.ShowDialog() == true)
+            {
+                SelectedRole.NameRole = roleCopy.NameRole;
+            }
+        }));
+
+        private RelayCommand deleteRole;
+        public RelayCommand DeleteRole => deleteRole ?? (deleteRole = new RelayCommand(obj => {
+            if (SelectedRole == null) return;
+
+            ListRole.Remove(SelectedRole);
+            SelectedRole = ListRole.FirstOrDefault();
+        }));
+
         public event PropertyChangedEventHandler PropertyChanged;
         protected void OnPropertyChanged([CallerMemberName] string p = null) => PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(p));
     }

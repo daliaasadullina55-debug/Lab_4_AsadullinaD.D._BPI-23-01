@@ -27,7 +27,7 @@ namespace Lab_4_AsadullinaD.D._БПИ_23_01
         {
             InitializeComponent();
 
-            // ✅ Устанавливаем контекст данных для привязки команд
+
             DataContext = new MainViewModel();
         }
     }

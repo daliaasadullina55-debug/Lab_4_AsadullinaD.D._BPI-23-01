@@ -62,7 +62,7 @@ namespace Lab_4_AsadullinaD.D._БПИ_23_01.Model
 
         public PersonDpo ShallowCopy() => (PersonDpo)this.MemberwiseClone();
 
-        // ✅ копирование из Person в PersonDpo
+  
         public PersonDpo CopyFromPerson(Person person)
         {
             var dpo = new PersonDpo
@@ -74,7 +74,7 @@ namespace Lab_4_AsadullinaD.D._БПИ_23_01.Model
                 Birthday = person.Birthday
             };
 
-            // получаем название должности по RoleId
+        
             var roleVm = new RoleViewModel();
             var role = roleVm.ListRole.FirstOrDefault(r => r.Id == person.RoleId);
             dpo.RoleName = role != null ? role.NameRole : "";
