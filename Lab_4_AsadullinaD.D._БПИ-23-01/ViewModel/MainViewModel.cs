@@ -11,8 +11,8 @@ namespace Lab_4_AsadullinaD.D._БПИ_23_01.ViewModel
 {
     public class MainViewModel
     {
-        public ICommand OpenEmployeesCommand { get; }
-        public ICommand OpenRolesCommand { get; }
+        public RelayCommand OpenEmployeesCommand { get; }
+        public RelayCommand OpenRolesCommand { get; }
 
         public MainViewModel()
         {
